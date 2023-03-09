@@ -1,0 +1,3 @@
+﻿  Project.cpp
+C:\Users\danil\OneDrive\Рабочий стол\My Projects\My Projects\Reliability of infocommunication system\Project\Project\Project.cpp(126,142): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project.vcxproj -> C:\Users\danil\OneDrive\Рабочий стол\My Projects\My Projects\Reliability of infocommunication system\Project\Debug\Project.exe
